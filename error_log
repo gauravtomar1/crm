@@ -1,0 +1,400 @@
+[09-Jun-2020 10:27:05 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[09-Jun-2020 10:27:05 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[09-Jun-2020 10:27:49 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[09-Jun-2020 10:27:49 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[09-Jun-2020 11:30:45 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[09-Jun-2020 11:30:45 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[09-Jun-2020 11:54:19 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[09-Jun-2020 11:54:19 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[09-Jun-2020 11:58:54 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[09-Jun-2020 11:58:54 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[09-Jun-2020 12:29:37 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[09-Jun-2020 12:29:37 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[30-Jun-2020 05:51:30 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[30-Jun-2020 05:51:30 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[18-Jul-2020 11:07:26 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[18-Jul-2020 11:07:26 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[18-Jul-2020 11:08:51 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[18-Jul-2020 11:08:51 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[18-Jul-2020 11:09:59 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[18-Jul-2020 11:09:59 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[18-Jul-2020 11:10:50 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[18-Jul-2020 11:10:50 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[18-Jul-2020 11:11:34 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[18-Jul-2020 11:11:34 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[18-Jul-2020 11:12:29 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[18-Jul-2020 11:12:29 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[18-Jul-2020 11:19:43 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[18-Jul-2020 11:19:43 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[18-Jul-2020 11:36:11 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[18-Jul-2020 11:36:11 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[18-Jul-2020 11:43:05 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[18-Jul-2020 11:43:05 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[18-Jul-2020 12:42:01 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[18-Jul-2020 12:42:01 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[18-Jul-2020 12:42:10 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[18-Jul-2020 12:42:10 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[18-Jul-2020 12:44:23 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[18-Jul-2020 12:44:23 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[18-Jul-2020 12:45:25 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[18-Jul-2020 12:45:25 UTC] PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+[18-Jul-2020 19:54:43 UTC] PHP Warning:  proc_open(): fork failed - Cannot allocate memory in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Application.php on line 952
+[18-Jul-2020 19:59:31 UTC] PHP Warning:  proc_open(): fork failed - Cannot allocate memory in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Application.php on line 952
+[18-Jul-2020 20:02:40 UTC] PHP Warning:  proc_open(): fork failed - Cannot allocate memory in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Application.php on line 952
+[18-Jul-2020 20:14:59 UTC] PHP Warning:  proc_open(): fork failed - Cannot allocate memory in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Application.php on line 952
+[18-Jul-2020 20:51:46 UTC] PHP Warning:  proc_open(): fork failed - Cannot allocate memory in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Application.php on line 952
+[22-Jul-2020 19:08:02 UTC] PHP Warning:  require(/home/younggeeks/public_html/wbecrm/vendor/composer/../laravel/framework/src/Illuminate/Foundation/helpers.php): failed to open stream: No such file or directory in /home/younggeeks/public_html/wbecrm/vendor/composer/autoload_real.php on line 66
+[22-Jul-2020 19:08:02 UTC] PHP Warning:  require(/home/younggeeks/public_html/wbecrm/vendor/composer/../laravel/framework/src/Illuminate/Foundation/helpers.php): failed to open stream: No such file or directory in /home/younggeeks/public_html/wbecrm/vendor/composer/autoload_real.php on line 66
+[22-Jul-2020 19:08:02 UTC] PHP Fatal error:  require(): Failed opening required '/home/younggeeks/public_html/wbecrm/vendor/composer/../laravel/framework/src/Illuminate/Foundation/helpers.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/younggeeks/public_html/wbecrm/vendor/composer/autoload_real.php on line 66
+[22-Jul-2020 19:08:02 UTC] PHP Fatal error:  require(): Failed opening required '/home/younggeeks/public_html/wbecrm/vendor/composer/../laravel/framework/src/Illuminate/Foundation/helpers.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/younggeeks/public_html/wbecrm/vendor/composer/autoload_real.php on line 66
+[23-Jul-2020 18:03:05 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ContactController::array_flatten() in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 477
+[24-Jul-2020 05:08:04 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:04 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:07 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:07 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:10 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:10 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:13 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:13 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:16 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:16 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:20 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:20 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:22 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:23 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:25 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:25 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:28 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:28 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:31 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:31 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:34 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:34 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:37 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:37 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:40 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:40 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:43 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:43 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:46 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:46 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:49 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:49 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:52 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:52 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:55 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:55 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:58 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:08:58 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:01 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:01 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:04 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:04 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:07 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:07 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:10 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:10 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:13 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:13 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:16 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:16 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:19 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:19 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:22 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:22 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:25 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:25 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:28 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:28 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:31 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:31 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:34 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:34 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:37 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:37 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:37 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:40 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:40 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:43 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:43 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:46 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:46 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:49 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:49 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:52 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:52 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:55 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:55 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:58 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:09:58 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:01 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:01 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:04 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:04 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:07 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:07 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:10 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:10 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:10 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:13 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:13 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:16 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:16 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:19 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:19 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:22 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:22 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:25 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:25 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:28 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:28 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:31 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:31 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:34 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:34 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:36 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:36 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:37 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:37 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:37 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:40 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:40 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:43 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:43 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:46 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:46 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:49 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:49 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:52 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:52 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:55 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:55 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:58 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:10:58 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:01 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:01 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:04 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:04 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:07 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:07 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:10 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:10 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:13 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:13 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:14 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:16 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:16 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:19 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:19 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:22 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:22 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:25 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:25 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:28 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:28 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:31 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:31 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:34 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:34 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:37 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:37 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:40 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:40 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:43 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:43 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:46 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:46 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:49 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:49 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:54 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:54 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:55 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:55 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:59 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:11:59 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:01 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:01 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:04 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:04 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:07 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:07 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:10 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:10 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:13 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:13 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:16 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:16 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:19 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:19 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:22 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:22 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:25 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:25 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:28 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:28 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:31 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:31 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:34 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:34 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:37 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:37 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:40 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:40 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:43 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:43 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:46 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:46 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:49 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:49 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:52 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:52 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:55 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:55 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:58 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:12:58 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:01 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:01 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:04 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:04 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:07 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:07 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:10 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:10 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:13 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:13 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:16 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:16 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:19 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:19 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:22 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:22 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:25 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:25 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:28 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:28 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:31 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:31 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:34 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:34 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:37 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:37 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:40 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:40 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:43 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:43 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:46 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:46 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:49 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:49 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:52 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:52 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:55 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:55 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:58 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:13:58 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:01 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:01 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:04 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:04 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:07 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:07 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:10 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:10 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:13 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:13 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:16 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:16 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:19 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:19 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:22 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:22 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:25 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:25 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:28 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:28 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:31 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:31 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:34 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:34 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:37 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:37 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:40 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:40 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:40 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:43 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:43 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:45 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:45 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:49 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:49 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:52 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:52 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:55 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:55 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:58 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:14:58 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:15:01 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:15:01 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:15:04 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:15:04 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:15:13 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:15:13 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 05:15:13 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/ContactController.php on line 436
+[24-Jul-2020 06:39:20 UTC] PHP Warning:  require(/home/younggeeks/public_html/wbecrm/vendor/composer/../symfony/string/Resources/functions.php): failed to open stream: No such file or directory in /home/younggeeks/public_html/wbecrm/vendor/composer/autoload_real.php on line 66
+[24-Jul-2020 06:39:20 UTC] PHP Fatal error:  require(): Failed opening required '/home/younggeeks/public_html/wbecrm/vendor/composer/../symfony/string/Resources/functions.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/younggeeks/public_html/wbecrm/vendor/composer/autoload_real.php on line 66
+[24-Jul-2020 06:39:26 UTC] PHP Warning:  include(/home/younggeeks/public_html/wbecrm/vendor/composer/../symfony/http-kernel/HttpKernelInterface.php): failed to open stream: No such file or directory in /home/younggeeks/public_html/wbecrm/vendor/composer/ClassLoader.php on line 444
+[24-Jul-2020 06:39:26 UTC] PHP Warning:  include(): Failed opening '/home/younggeeks/public_html/wbecrm/vendor/composer/../symfony/http-kernel/HttpKernelInterface.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/younggeeks/public_html/wbecrm/vendor/composer/ClassLoader.php on line 444
+[24-Jul-2020 06:39:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/younggeeks/public_html/wbecrm/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:29
+Stack trace:
+#0 /home/younggeeks/public_html/wbecrm/vendor/composer/ClassLoader.php(444): include()
+#1 /home/younggeeks/public_html/wbecrm/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/younggeek...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Foun...')
+#3 /home/younggeeks/public_html/wbecrm/bootstrap/app.php(14): spl_autoload_call('Illuminate\\Foun...')
+#4 /home/younggeeks/public_html/wbecrm/public/index.php(38): require_once('/home/younggeek...')
+#5 /home/younggeeks/public_html/wbecrm/index.php(21): require_once('/home/younggeek...')
+#6 {main}
+  thrown in /home/younggeeks/public_html/wbecrm/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 29
+[24-Jul-2020 06:39:26 UTC] PHP Warning:  include(/home/younggeeks/public_html/wbecrm/vendor/composer/../symfony/http-kernel/HttpKernelInterface.php): failed to open stream: No such file or directory in /home/younggeeks/public_html/wbecrm/vendor/composer/ClassLoader.php on line 444
+[24-Jul-2020 06:39:26 UTC] PHP Warning:  include(): Failed opening '/home/younggeeks/public_html/wbecrm/vendor/composer/../symfony/http-kernel/HttpKernelInterface.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/younggeeks/public_html/wbecrm/vendor/composer/ClassLoader.php on line 444
+[24-Jul-2020 06:39:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/younggeeks/public_html/wbecrm/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:29
+Stack trace:
+#0 /home/younggeeks/public_html/wbecrm/vendor/composer/ClassLoader.php(444): include()
+#1 /home/younggeeks/public_html/wbecrm/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/younggeek...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Foun...')
+#3 /home/younggeeks/public_html/wbecrm/bootstrap/app.php(14): spl_autoload_call('Illuminate\\Foun...')
+#4 /home/younggeeks/public_html/wbecrm/public/index.php(38): require_once('/home/younggeek...')
+#5 /home/younggeeks/public_html/wbecrm/index.php(21): require_once('/home/younggeek...')
+#6 {main}
+  thrown in /home/younggeeks/public_html/wbecrm/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 29
+[28-Jul-2020 11:05:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'curl.so' (tried: /opt/cpanel/ea-php74/root/usr/lib64/php/modules/curl.so (libssl.so.10: failed to map segment from shared object: Cannot allocate memory), /opt/cpanel/ea-php74/root/usr/lib64/php/modules/curl.so.so (/opt/cpanel/ea-php74/root/usr/lib64/php/modules/curl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[30-Jul-2020 11:08:59 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/VoiceController.php on line 3
+[30-Jul-2020 11:09:34 UTC] PHP Warning:  Uncaught ErrorException: require_once(/home/younggeeks/public_html/wbecrm/app/Http/Controllers/vendor/autoload.php): failed to open stream: No such file or directory in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/VoiceController.php:4
+Stack trace:
+#0 /home/younggeeks/public_html/wbecrm/app/Http/Controllers/VoiceController.php(4): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require_once(/h...', '/home/younggeek...', 4, Array)
+#1 /home/younggeeks/public_html/wbecrm/app/Http/Controllers/VoiceController.php(4): require_once()
+#2 /home/younggeeks/public_html/wbecrm/vendor/composer/ClassLoader.php(444): include('/home/younggeek...')
+#3 /home/younggeeks/public_html/wbecrm/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/younggeek...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#5 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#6 /home/younggeeks/public_html/wbecrm/vendor/laravel/framework/src/Il in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/VoiceController.php on line 4
+[30-Jul-2020 11:09:34 UTC] PHP Fatal error:  main(): Failed opening required '/home/younggeeks/public_html/wbecrm/app/Http/Controllers/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/VoiceController.php on line 4
+[30-Jul-2020 11:12:38 UTC] PHP Warning:  Uncaught ErrorException: require_once(/vendor/autoload.php): failed to open stream: No such file or directory in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/VoiceController.php:4
+Stack trace:
+#0 /home/younggeeks/public_html/wbecrm/app/Http/Controllers/VoiceController.php(4): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require_once(/v...', '/home/younggeek...', 4, Array)
+#1 /home/younggeeks/public_html/wbecrm/app/Http/Controllers/VoiceController.php(4): require_once()
+#2 /home/younggeeks/public_html/wbecrm/vendor/composer/ClassLoader.php(444): include('/home/younggeek...')
+#3 /home/younggeeks/public_html/wbecrm/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/younggeek...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#5 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#6 /home/younggeeks/public_html/wbecrm/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass-> in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/VoiceController.php on line 4
+[30-Jul-2020 11:12:38 UTC] PHP Fatal error:  main(): Failed opening required '/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/VoiceController.php on line 4
+[30-Jul-2020 11:13:11 UTC] PHP Warning:  Uncaught ErrorException: require_once(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/VoiceController.php:4
+Stack trace:
+#0 /home/younggeeks/public_html/wbecrm/app/Http/Controllers/VoiceController.php(4): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require_once():...', '/home/younggeek...', 4, Array)
+#1 /home/younggeeks/public_html/wbecrm/app/Http/Controllers/VoiceController.php(4): require_once()
+#2 /home/younggeeks/public_html/wbecrm/vendor/composer/ClassLoader.php(444): include('/home/younggeek...')
+#3 /home/younggeeks/public_html/wbecrm/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/younggeek...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#5 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#6 /home/younggeeks/public_html/wbecrm/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Reflect in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/VoiceController.php on line 4
+[30-Jul-2020 11:13:11 UTC] PHP Fatal error:  main(): Failed opening required 'http://wbecrm.younggeeks.net/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/younggeeks/public_html/wbecrm/app/Http/Controllers/VoiceController.php on line 4
